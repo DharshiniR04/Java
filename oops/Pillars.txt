@@ -1,6 +1,9 @@
-Java is an Object Oriented Programming . It's not an procedural language .
+ => Java is an Object Oriented Programming . 
+ => It's not an procedural language .
+ => Uses object as the main source to implement the code.
 
-The features are,
+The Main features are,
+
     =>Classes and Object
     =>Abstraction
     =>Encapsulation

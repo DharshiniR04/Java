@@ -7,4 +7,11 @@ Class :
 
 Object :
     
-    =>
+    => It is an instance of a Class.
+    => Object follows the structure defined by a Class.
+    => It is an real world entity.
+
+  example:
+
+     => Car is an Object . The object's properties can be color , brand , etc ., and its method's can be brake() , cletch() , accelerator()
+
