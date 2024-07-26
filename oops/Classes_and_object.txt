@@ -1,0 +1,10 @@
+Class :
+    
+    => Class is an Blueprint of an object.
+    => It defines the Methods and behaviour of an Object. 
+    => What structure should an object follow.
+    => A Class can have any no of object.
+
+Object :
+    
+    =>

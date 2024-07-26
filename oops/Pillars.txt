@@ -1,0 +1,8 @@
+Java is an Object Oriented Programming . It's not an procedural language .
+
+The features are,
+    =>Classes and Object
+    =>Abstraction
+    =>Encapsulation
+    =>Polymorphism
+    =>Inheritence
