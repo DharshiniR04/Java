@@ -4,6 +4,7 @@ Class :
     => It defines the Methods and behaviour of an Object. 
     => What structure should an object follow.
     => A Class can have any no of object.
+    => A Class does not take any memory space because it only defines the template for the object . it doesn't hold any values.
 
 => A class declaration can include the follows:
 
@@ -31,6 +32,7 @@ Object :
     => It is an instance of a Class.
     => Object follows the structure defined by a Class.
     => It is an real world entity.
+    => An Object does have an address and takes some memory space;
 
   example:
 

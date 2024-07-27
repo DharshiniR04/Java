@@ -1,0 +1,5 @@
+
+=> In Inheritence, a child class acquires all the properties , methods and behaviour from the parent class.
+=> Makes code resusable
+=> helps to achieve runtime polymorphism
+
