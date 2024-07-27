@@ -5,6 +5,27 @@ Class :
     => What structure should an object follow.
     => A Class can have any no of object.
 
+=> A class declaration can include the follows:
+
+    => Modifiers - defines from which scope the class properties and methods can be accessed
+    => Properties - Variable declaration and definations.
+    => Methods - functions
+
+    example:
+       
+       class Car(){
+
+            int brake=0; // properties
+
+            Car(){       // constructor
+                brake=1;
+            }
+
+            public void Brake(){        // methods
+                System.out.print(b);
+            }
+       }
+
 Object :
     
     => It is an instance of a Class.
@@ -13,5 +34,12 @@ Object :
 
   example:
 
-     => Car is an Object . The object's properties can be color , brand , etc ., and its method's can be brake() , cletch() , accelerator()
+     => Car is an Object . The object's properties can be color , brand , etc ., and its method's can be brake() , cletch() , accelerator() and so on.
 
+    public class Main(){
+       public static void main(String args[]){
+          Car c=new Car();
+          System.out.print(c.Brake());
+       }
+    }
+    
