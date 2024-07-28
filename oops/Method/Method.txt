@@ -1,0 +1,39 @@
+
+
+=> Method is used to perform some task .
+=> It has a block of code to implement a particular task
+=> A method has,
+
+      => Access specifier,
+      => Return type ,
+      => Method name,
+      => Parameter,
+      => Method body
+
+=>Types of Method
+             
+                                                             => Static Method <=
+
+            => A method declared or defined with a keyword Static
+            => Static method can be called without an object
+
+                                                             => Non-static Method <=
+
+            => A method declared or defined without static keyword 
+            => non-static method should be called with an object  from a static method
+
+        => In non-static , there are two types of method ,
+
+                       => Accessor method -> Which is used to get values
+                       => Mutator method -> Whch is used to set values
+
+                                                             => Abstract Method <=
+
+            => The method that does not has method body is known as abstract method.
+            => A method declared or defined with a keyword abstract.
+            => A class which has an abstract method is called as abstract class which also have abstract keyword
+            
+
+
+
+
