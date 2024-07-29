@@ -1,0 +1,38 @@
+
+=> constructor in java is similiar to that of a method.
+=> Constructor is used to instantiate an object.
+=> when the object is called the memory for an object is allocated.
+=> There is a constructor class in java.lang.reflect package.
+
+          => Conditions to be followed in a constructor:
+
+   => Constructor name should be same as the class name.
+   => it doesn't have any return type.
+   => Constructor can't be abstract , static or final
+
+          => Types of constructor:
+
+   => No-Argument constructor:
+         
+        => A constructor with no parameter.
+        => Used to assign some default values for data members.
+
+   => Parametrized Constructor:
+        
+        => A constructor with parameters.
+        => Used to assign each object with a distinct value.
+
+   => Default constructor:
+        
+        => When an constructor is not explicitly created . JVM (Java virtual machine) creates an Default constructor.
+
+=> Java Copy Constructor:
+    
+    => Used to assign value of one object to another object.
+    => It can be done in 2 ways , 
+            
+             => By Constructor,
+             => By assigning the value of one object to another.
+    
+            
+     

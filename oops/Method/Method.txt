@@ -8,7 +8,7 @@
       => Return type ,
       => Method name,
       => Parameter,
-      => Method body
+      => Method body.
 
 =>Types of Method
              
