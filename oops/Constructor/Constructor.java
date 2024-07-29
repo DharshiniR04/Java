@@ -15,7 +15,7 @@ class Parent{
 
 public class Constructor {
     public static void main(String args[]){
-        
+
        Parent p=new Parent();
        Parent p1=new Parent("Good Morning.",1);
        Parent p2=new Parent("Good Night.",2);
